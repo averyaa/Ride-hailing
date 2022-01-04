@@ -1,0 +1,8 @@
+[
+  {
+    "Classification": "yarn-site",
+    "Properties": {
+      "yarn.log-aggregation-enable": "true"
+    }
+  }
+]
